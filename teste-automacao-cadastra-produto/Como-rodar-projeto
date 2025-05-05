@@ -1,0 +1,9 @@
+"Primeiro - node server.js"
+Se estiver tudo ok! Recebemos a mensagem 
+Servidor rodando em http://localhost:3000
+
+"Segundo - python preencher_formulario.py"
+Se estiver tudo ok! Recebemos a mensagem 
+
+Você tem 5 segundos para abrir o formulário no navegador e clicar no campo 'ID do Produto'.
+

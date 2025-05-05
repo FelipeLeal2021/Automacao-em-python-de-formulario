@@ -1,0 +1,11 @@
+id,nome,descricao,preco,quantidade,categoria
+001,Camisa Polo Vermelha,Camisa de algodão,79.90,10,Vestuário
+002,Calça Jeans Azul,Calça masculina slim,119.90,15,Vestuário
+003,Tenis Esportivo,Tênis de corrida,199.90,8,Calçados
+004,Tenis DC,Tênis bico fino,299.90,3,Calçados
+005,Camisa Vermelha,Camisa de algodão,79.90,10,Vestuário
+006,Camisa Preta,Camisa de algodão,79.90,10,Vestuário
+007,Camisa Azul Claro,Camisa de algodão,79.90,10,Vestuário
+008,Camisa Branca,Camisa de algodão,79.90,10,Vestuário
+009,Camisa Azul,Camisa de algodão,79.90,10,Vestuário
+010,Camisa Verde,Camisa de algodão,79.90,10,Vestuário
