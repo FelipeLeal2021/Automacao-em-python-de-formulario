@@ -23,11 +23,17 @@ Ele foi dividido em três partes:
 ## 📌 Estrutura do Projeto
 
 ├── index.html # Página com o formulário de cadastro
+
 ├── style.css # Estilização do formulário
+
 ├── server.js # Servidor Express que recebe e envia os e-mails
+
 ├── preencher_formulario.py # Script Python para automação
+
 ├── produtos.csv # Base de produtos para preenchimento automático
+
 ├── .gitignore # Arquivos que não devem ser enviados para o GitHub (.env e node_modules)
+
 └── README.md # Este arquivo
 ## ⚡ Como rodar o projeto
 
